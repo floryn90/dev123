@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "MySQL Administrator"
+AuthUserFile /adminer/.htpasswd
+Require valid-user
